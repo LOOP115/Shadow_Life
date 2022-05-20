@@ -1,4 +1,5 @@
 # Shadow Life
 
-* For more details, please refer to the [specification](p2_spec.pdf). 
+* [specification](p2_spec.pdf). 
 * [UML Diagram](uml.pdf)
+* [Bagel](https://people.eng.unimelb.edu.au/mcmurtrye/bagel-doc/)
